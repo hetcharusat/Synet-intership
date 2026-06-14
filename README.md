@@ -12,8 +12,7 @@ The objective was to design and develop visual branding materials for a fictiona
 
 Designed the official NexaLink logo featuring a custom networking-inspired symbol, signal-wave elements, and a modern technology-focused color palette.
 
-🔗 View Design:  
-https://drive.google.com/file/d/17JsJ6cq9wh-xng6ckJTCGdjsLFLzfhyM/view?usp=drivesdk
+🔗 View Design: file:///workspaces/Synet-intership/task-3-logo/synet-task3-logo-hetpatel.png
 
 ---
 
@@ -21,8 +20,7 @@ https://drive.google.com/file/d/17JsJ6cq9wh-xng6ckJTCGdjsLFLzfhyM/view?usp=drive
 
 Created a launch advertisement for the **NexaLink X7 Pro Wi-Fi 7 Router**, highlighting key product specifications and promotional branding.
 
-🔗 View Design:  
-https://drive.google.com/file/d/1MLvSw_kk5EpZBbp1WxYj-XOjWkMwtPW4/view?usp=drivesdk
+🔗 View Design: file:///workspaces/Synet-intership/Additional-Design/synet-additional-design-Product Launch-hetpatel.png
 
 ---
 
@@ -30,8 +28,8 @@ https://drive.google.com/file/d/1MLvSw_kk5EpZBbp1WxYj-XOjWkMwtPW4/view?usp=drive
 
 Designed a professional business card aligned with the NexaLink brand identity and visual theme.
 
-🔗 View Design:  
-https://drive.google.com/file/d/1T3dFbjnXCazwUJR2g6l9im67btpiElhA/view?usp=drivesdk
+🔗 View Design: file:///workspaces/Synet-intership/task-4-buisness-card/synet-task4-BuisnessCard1-hetpatel.png
+🔗 View Design: file:///workspaces/Synet-intership/task-4-buisness-card/synet-task4-BuisnessCard2-hetpatel.png
 
 ---
 
@@ -39,15 +37,25 @@ https://drive.google.com/file/d/1T3dFbjnXCazwUJR2g6l9im67btpiElhA/view?usp=drive
 
 Created a corporate promotional poster to strengthen brand communication and showcase the company's professional image.
 
-🔗 View Design:  
-https://drive.google.com/file/d/15uGUDpPYOcNDroTNe0tPEp3bJeRdMReO/view?usp=drivesdk
+🔗 View Design: file:///workspaces/Synet-intership/task-2-poster/synet-task2-Poster-hetpatel.png
+
+---
+
+### Task 5 – Brand Identity Kit
+
+Developed a comprehensive brand identity kit for NexaLink, ensuring consistent visual communication across all platforms.
+
+🔗 View Design: file:///workspaces/Synet-intership/task-5-brandidentityKit/synet-task5-BrandIdentitykit-hetpatel (1).png
+🔗 View Design: file:///workspaces/Synet-intership/task-5-brandidentityKit/synet-task5-BrandIdentitykit-hetpatel (2).png
+🔗 View Design: file:///workspaces/Synet-intership/task-5-brandidentityKit/synet-task5-BrandIdentitykit-hetpatel (3).png
+🔗 View Design: file:///workspaces/Synet-intership/task-5-brandidentityKit/synet-task5-BrandIdentitykit-hetpatel (4).png
+🔗 View Design: file:///workspaces/Synet-intership/task-5-brandidentityKit/synet-task5-BrandIdentitykit-hetpatel (5).png
 
 ---
 
 ## Tools Used
 
 - Canva
-- Canva AI
 - ChatGPT
 
 ---
