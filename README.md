@@ -1,135 +1,72 @@
-# NexaLink Brand Identity Project
+# Synet Technology – Branding & Marketing Design Tasks
 
-A fictional networking and connectivity brand created as part of a design internship assignment.
+This repository contains the branding and marketing assets created as part of the internship assignment for **Synet Technology**.
 
-NexaLink focuses on modern networking solutions, enterprise connectivity, and next-generation Wi-Fi products. This project covers branding, marketing, and product promotion assets created using Canva.
-
----
-
-## Project Overview
-
-NexaLink is a conceptual networking company designed around the idea of reliable, high-speed, and futuristic connectivity.
-
-### Brand Theme
-- Modern Technology
-- Networking & Connectivity
-- Enterprise Solutions
-- Wi-Fi Infrastructure
-- Minimal & Professional Design
+The objective was to design and develop visual branding materials for a fictional networking brand named **NexaLink**, including logo design, marketing creatives, and corporate identity assets.
 
 ---
 
-## Tasks Completed
+## Completed Tasks
 
-### Task 1 — Logo Design
+### Task 1 – Logo Design
 
-Created the official NexaLink logo featuring:
-- Custom "N" symbol
-- Connectivity-inspired design language
-- Signal-wave elements
-- Blue and cyan technology color palette
+Designed the official NexaLink logo featuring a custom networking-inspired symbol, signal-wave elements, and a modern technology-focused color palette.
 
-🔗 **View Design:**  
+🔗 View Design:  
 https://drive.google.com/file/d/17JsJ6cq9wh-xng6ckJTCGdjsLFLzfhyM/view?usp=drivesdk
 
 ---
 
-### Task 2 — Product Launch Advertisement
+### Task 2 – Product Launch Advertisement
 
-Designed a promotional launch poster for:
+Created a launch advertisement for the **NexaLink X7 Pro Wi-Fi 7 Router**, highlighting key product specifications and promotional branding.
 
-# X7 PRO
-### Wi-Fi 7 Router
-
-Key highlights:
-- 10 Gbps Multi-Gig Speed
-- Wi-Fi 7 Technology
-- 320 MHz Ultra-Wide Channel
-- 4096-QAM Throughput
-
-🔗 **View Design:**  
+🔗 View Design:  
 https://drive.google.com/file/d/1MLvSw_kk5EpZBbp1WxYj-XOjWkMwtPW4/view?usp=drivesdk
 
 ---
 
-### Task 3 — Business Card Design
+### Task 3 – Business Card Design
 
-Created a professional business card for the NexaLink brand identity system.
+Designed a professional business card aligned with the NexaLink brand identity and visual theme.
 
-Features:
-- Consistent branding
-- Corporate design language
-- Professional contact layout
-- Brand color integration
-
-🔗 **View Design:**  
+🔗 View Design:  
 https://drive.google.com/file/d/1T3dFbjnXCazwUJR2g6l9im67btpiElhA/view?usp=drivesdk
 
 ---
 
-### Task 4 — Corporate Poster
+### Task 4 – Corporate Poster
 
-Designed a corporate marketing poster showcasing the NexaLink brand.
+Created a corporate promotional poster to strengthen brand communication and showcase the company's professional image.
 
-Focus Areas:
-- Corporate communication
-- Brand awareness
-- Professional visual identity
-- Technology-driven aesthetic
-
-🔗 **View Design:**  
+🔗 View Design:  
 https://drive.google.com/file/d/15uGUDpPYOcNDroTNe0tPEp3bJeRdMReO/view?usp=drivesdk
 
 ---
 
-## Design Tools Used
+## Tools Used
 
 - Canva
 - Canva AI
-- ChatGPT (Concept Development & Creative Direction)
+- ChatGPT
 
 ---
 
-## Brand Colors
+## Brand Name
 
-| Color | Hex Code |
-|---------|---------|
-| Deep Navy | #041633 |
-| Electric Blue | #1450F0 |
-| Cyan | #1FC6E8 |
-| White | #FFFFFF |
+**NexaLink**
+
+A conceptual networking and connectivity brand developed for the purpose of this design assignment.
 
 ---
 
-## Concept
+## Internship
 
-The NexaLink logo combines:
-
-- Connectivity
-- Wireless Communication
-- Modern Infrastructure
-- Network Reliability
-
-The signal-wave element symbolizes communication and coverage, while the custom "N" serves as the core brand identifier.
+Submitted as part of the internship tasks assigned by **Synet Technology**.
 
 ---
 
-## Future Scope
+### Author
 
-Potential future deliverables:
-
-- Product Packaging
-- Website UI Design
-- Mobile App Interface
-- Brand Guidelines
-- Product Catalog
-- Social Media Campaigns
-
----
-
-## Author
-
-**Het Patel**
-
-Computer Engineering Student  
-Brand Identity & Marketing Design Project
+**Het Patel**  
+B.Tech Computer Engineering
